@@ -6,4 +6,7 @@
 
 <br><br>
 
-![Uploading image.png…]()
+![image](https://github.com/Omkar4965/Tic-Tac-Toe/assets/115718315/91b765be-77f4-4120-8c4f-aded5f92afb1)
+
+
+
