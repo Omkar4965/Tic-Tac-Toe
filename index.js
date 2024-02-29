@@ -223,6 +223,7 @@ function checkForWin(x,y){
                 paintGreen(5)
                 paintGreen(9)
                 winner()
+                return
             }
 
             if((x == 1 && y == 1) && (arr[0][2] == curr && arr[1][1] == curr && arr[2][0] == curr)){
@@ -231,6 +232,7 @@ function checkForWin(x,y){
                 paintGreen(5)
                 paintGreen(7)
                 winner()
+                return
             }
         }else{
             if(arr[0][2] == curr && arr[1][1] == curr && arr[2][0] == curr){
@@ -239,6 +241,7 @@ function checkForWin(x,y){
                 paintGreen(5)
                 paintGreen(7)
                 winner()
+                return
             }
         }
 
