@@ -2,7 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Poppins', 'sans-serif';
+    font-family: "Roboto Slab", serif;
+}
+
+h3{
+    color: rgb(255, 255, 255);
+    margin-top: 3rem;
+    font-size: 2rem;
 }
 .wrapper{
     width: 100vw;
@@ -17,8 +23,6 @@
 .game-info{
     /* position: absolute; */
     border: 1px solid white;
-    margin-top: 2rem;
-  
     background-color:rgba(255, 255, 255, 0.15);
     border-radius: 1rem;
     padding: 0rem 1rem;
